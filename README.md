@@ -1,7 +1,7 @@
 # tools-ig
 
 # How to install (DEFAULT or BASIC USAGE)
-	* git clone https://github.com/gnabatch/tools-ig
+	* git clone https://github.com/gnabatch/tools-ig.git
 	* cd tools-ig
 	* unzip node_modules.zip
 	* node gas.js
@@ -14,7 +14,7 @@
 	* Open Termux and Wait for Automatic Install of Termux.
 	* pkg install git
 	* pkg install nodejs
-	* git clone https://github.com/gnabatch/tools-ig
+	* git clone https://github.com/gnabatch/tools-ig.git
 	* cd tools-ig
 	* unzip node_modules.zip
 	* ls
@@ -23,6 +23,6 @@
   
 <br/>
  # List Tools :
-1. AUTO FOLLOW, COMMENT, LIKE
-2. AUTO UNFOLLOW
-3. DELETE ALL CONTENT
+	1. AUTO FOLLOW, COMMENT, LIKE
+	2. AUTO UNFOLLOW
+	3. DELETE ALL CONTENT
